@@ -21,7 +21,7 @@ collections:
       
   - name: "faq"
     label: "Faq"
-    folder: "src/pages/faq
+    folder: "src/pages/faq"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
